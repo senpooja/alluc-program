@@ -1,0 +1,5 @@
+C:\Users\pooja\source\repos\uc-1-program1\uc-4-program\obj\Debug\net6.0\uc-4-program.csproj.AssemblyReference.cache
+C:\Users\pooja\source\repos\uc-1-program1\uc-4-program\obj\Debug\net6.0\uc-4-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\source\repos\uc-1-program1\uc-4-program\obj\Debug\net6.0\uc-4-program.AssemblyInfoInputs.cache
+C:\Users\pooja\source\repos\uc-1-program1\uc-4-program\obj\Debug\net6.0\uc-4-program.AssemblyInfo.cs
+C:\Users\pooja\source\repos\uc-1-program1\uc-4-program\obj\Debug\net6.0\uc-4-program.csproj.CoreCompileInputs.cache
