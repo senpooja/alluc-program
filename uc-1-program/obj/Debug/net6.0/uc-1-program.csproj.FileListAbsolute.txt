@@ -1,0 +1,15 @@
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\bin\Debug\net6.0\uc-1-program.exe
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\bin\Debug\net6.0\uc-1-program.deps.json
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\bin\Debug\net6.0\uc-1-program.runtimeconfig.json
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\bin\Debug\net6.0\uc-1-program.dll
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\bin\Debug\net6.0\uc-1-program.pdb
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\obj\Debug\net6.0\uc-1-program.csproj.AssemblyReference.cache
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\obj\Debug\net6.0\uc-1-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\obj\Debug\net6.0\uc-1-program.AssemblyInfoInputs.cache
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\obj\Debug\net6.0\uc-1-program.AssemblyInfo.cs
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\obj\Debug\net6.0\uc-1-program.csproj.CoreCompileInputs.cache
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\obj\Debug\net6.0\uc-1-program.dll
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\obj\Debug\net6.0\refint\uc-1-program.dll
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\obj\Debug\net6.0\uc-1-program.pdb
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\obj\Debug\net6.0\uc-1-program.genruntimeconfig.cache
+C:\Users\pooja\source\repos\uc-1-program1\uc-1-program\obj\Debug\net6.0\ref\uc-1-program.dll
